@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "layout": {
+      "path": "../packages/layout"
+    },
+    "jade": {},
+    "npm": {},
+    "famono": {}
+  }
+}
